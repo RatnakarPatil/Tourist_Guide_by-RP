@@ -12,5 +12,5 @@ Select a destination where we want to go.
 Selected Destination.
 ![Selected Destination](./outputs/SelectedDestination.jpg)
 
-Our selected destination more information we want on google.
+More information of selected destination on Google
 ![Google Search](./outputs/GoogleDirect.png)
