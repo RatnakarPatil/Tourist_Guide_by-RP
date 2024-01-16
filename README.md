@@ -13,4 +13,4 @@ Selected Destination.
 ![Selected Destination](./outputs/SelectedDestination.jpg)
 
 Our selected destination more information we want on google.
-![Google Search](./outputs/GoggleSearch.jpg)
+![Google Search](./outputs/GoogleDirect.png)
